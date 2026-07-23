@@ -2,10 +2,11 @@
 
 # Features
 
-# print functions
-# user inputs
-# variables, naming variables 
-# f"string formating
+# Greets the user and asks for their name and age
+# Stores the inputs in variables
+# Uses string concatenation to format messages
+# Display personalized greetings with f"strings
+# calculate the age difference between the user and a bot (age 3)
 
 print("Hello, what is your name?")
 print("What is your age?")
