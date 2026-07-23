@@ -2,10 +2,10 @@
 
 # Features
 
-#print functions
-#user inputs
-#variables, naming variables 
-#f"string formating
+# print functions
+# user inputs
+# variables, naming variables 
+# f"string formating
 
 print("Hello, what is your name?")
 print("What is your age?")
@@ -32,7 +32,7 @@ bot_age = 3
 age_difference = age - bot_age
 
 print(f"You are {age_difference}, \n I am just "
-{boy_age} years old") 
+{bot_age} years old") 
 
 
 
